@@ -27,9 +27,15 @@ $base-height: 1.4;
 $red: #EE5F5B;
 $blue: #469AE0;
 $yellow: #FDB631;
-$orange: #E67E22;
 $green: #32B796;
 $purple: #6452BD;
+$pink: #E65482;
+$orange-light: #CB703D;
+$orange-middle: #C74F31;
+$orange-dark: #C74F31;
+$pink-light: rgba( #E65482, .7 );
+// lighten($base-color, 20%)
+
 
 // Gray scale
 $gray-darker:  lighten(#000, 13.5%); // #222
